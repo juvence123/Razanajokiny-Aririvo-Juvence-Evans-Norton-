@@ -58,7 +58,7 @@
                         </div>
                         <div class="info-item">
                             <i class="fas fa-phone"></i>
-                            <span>+33 6 12 34 56 78</span>
+                            <span>+261 38 31 465 89</span>
                         </div>
                     </div>
                 </div>
